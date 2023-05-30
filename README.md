@@ -5,7 +5,7 @@ Used Cars Price Predictor using Spark. This repository looks at the project comp
 Given the size of dataset, I am attaching the link to the dataset here - <a href="https://drive.google.com/file/d/1gpTpXpUivvoHu4WYuukEpCNrOMVL-eeg/view?usp=share_link"> Google Drive Link </a>
 
 # More Info
-You can find out the report `Cars365.pdf` to learn more about the project. 
+You can find out the presentation for the course at `Cars365.pdf` to learn more about the project. 
 
 # Improvements
 Although this is a closed project but I would love to hear any suggestions you might have on the project. Please send a pull request and we can go over it.
